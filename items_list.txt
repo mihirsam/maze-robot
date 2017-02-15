@@ -1,0 +1,9 @@
+//maze_solver items
+ultra sonic sensors x3
+arduino uno x1
+motor driver/amplifier x1
+jumper wires x
+batteries
+battery case x1
+motor x2
+wheel x2
