@@ -1,3 +1,3 @@
 # maze-solving-robot
-maze robot working code!!!
+Maze solving robot with arduino and ultrasonic sensor!
 -Xenon
